@@ -1,6 +1,6 @@
 # ***Tatsiana Pratasiuk***
 ================================
-![photo](/Users/tanya/Desktop)
+![photo](/img/Users/tanya/Desktop)
 
 ## **Contacts for communication:**
 1. _phone number: +375333373500_
