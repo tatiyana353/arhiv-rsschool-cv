@@ -33,13 +33,14 @@ _info coming soon..._
 ###### **Education:**
 _University: BGTU, automation enginersity_
 _Courses: Siemens, Skillbox._
-Education | year
-----------|:------:
+==============================
+  Education | year
+:----------:|:------:
 2012-2017 | BGTU
 2018      | Siemens
 \*2022      |Skillbox
 
-####### **Language:**
+###### **Language:**
 _English level A1_
 > -You saved my life.
 >— Don't waste it.
