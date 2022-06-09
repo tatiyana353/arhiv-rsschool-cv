@@ -1,1 +1,1 @@
-https://tatiyana353.github.io/rsschool-cv/cv.md
+https://tatiyana353.github.io/rsschool-cv/
